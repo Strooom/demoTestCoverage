@@ -1,4 +1,8 @@
 # Test Coverage on Unit Testing in PlatformIO / VSCode
 
-Read the tutorial here : https://github.com/Strooom/demoTestCoverage/blob/main/documentation/Code%20Coverage%20on%20Unit%20Testing.pdf
+This is a repository with the code for the PlatformIO Labs Blog Article 
+
+'Getting Started with Code Coverage in PlatformIO: A Beginner's Guide to Writing Effective Tests'
+
+Read the article : https://piolabs.com/blog/insights/test-coverage-on-unit-testing.html
 
